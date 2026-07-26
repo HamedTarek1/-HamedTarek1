@@ -64,3 +64,24 @@ const hamed = {
   passions: ["Building UIs", "Analyzing Data", "Novel Writing"],
   currentFocus: "Creating seamless web experiences & insightful data stories"
 };
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<!-- البطاقة الأولى: الإحصائيات العامة -->
+<img src="https://github-readme-stats.vercel.app/api?username=HamedTarek1&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Hamed Tarek's GitHub Stats" width="48%" />
+
+<!-- البطاقة الثانية: لغات البرمجة الأكثر استخداماً -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedTarek1&layout=compact&theme=dark&hide_border=true" alt="Hamed Tarek's Top Languages" width="48%" />
+
+</div>
+
+<!-- يمكنك أيضاً إضافة بطاقة التفاعل (Streak) كما في الصورة التي أرسلتها -->
+<div align="center">
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HamedTarek1&theme=dark&hide_border=true" alt="Hamed Tarek's GitHub Streak" width="97%" />
+</div>
+
+---
