@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 <h3>Front-End Developer | Data Analyst | Fiction Writer 📚💻</h3>
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=HamedTarek1&style=flat-square&color=blue&label=PROFILE+VIEWS)
 </div>
 
 <hr>
