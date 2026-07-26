@@ -1,29 +1,33 @@
-<div align="center" width="50">
-<h1>👋 أهلاً، أنا حامد طارق</h1>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<div align="center">
+
+<h1>👋 Hi, I'm Hamed Tareq</h1>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>  
 <h3>Front-End Developer | Data Analyst | Fiction Writer 📚💻</h3>
 <br>
+
 <img src="https://komarev.com/ghpvc/?username=HamedTarek1&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </div>
 
 <hr>
 
-## 🚀 نبذة عني | About Me
+## 🚀 About Me
 
-- 💻 **Front-End Development:** أعمل على بناء واجهات مستخدم تفاعلية وجذابة واستجابة عالية.
-- 📊 **Data Analysis:** مهتم بتحليل البيانات واستخراج الرؤى لمساعدة اتخاذ القرارات.
-- ✍️ **Fiction Writing:** روائي وصانع محتوى مهتم بالسرد القصصي والأدب.
-- 💬 اسألني عن: **JavaScript, React, Python, SQL, أو حتى كتابة الروايات!**
+- 💻 **Front-End Development:** Building responsive, interactive, and user-friendly web interfaces.
+- 📊 **Data Analysis:** Analyzing data and extracting actionable insights to drive decision-making.
+- ✍️ **Fiction Writing:** Novelist and content creator passionate about storytelling and literature.
+- 💬 Ask me about: **JavaScript, React, Python, Java, SQL, or even Novel Writing!**
 
 ---
 
-## 🛠️ أدواتي وتقنياتي | Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Front-End Development
+### 💻 Front-End & Core Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### 📊 Data Analysis & Databases
@@ -41,7 +45,7 @@
 ```javascript
 // Hamed Tareq Overview
 const hamed = {
-  code: ["JavaScript", "Python", "HTML", "CSS", "SQL"],
+  code: ["JavaScript", "Python", "Java", "HTML", "CSS", "SQL"],
   technologies: ["React", "Bootstrap", "n8n"],
   passions: ["Building UIs", "Analyzing Data", "Novel Writing"],
   currentFocus: "Creating seamless web experiences & insightful data stories"
