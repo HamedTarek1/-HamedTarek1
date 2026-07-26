@@ -14,7 +14,16 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 [![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 </div>
+<div align="center">
 
+<h1>👋 أهلاً، أنا حامد طارق</h1>
+<h3>Front-End Developer | Data Analyst | Fiction Writer 📚💻</h3>
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue&label=PROFILE+VIEWS)
+
+</div>
 <hr>
 
 ## 🚀 نبذة عني | About Me
