@@ -55,17 +55,6 @@
 ![n8n](https://img.shields.io/badge/-n8n-FF6584?style=flat-square&logo=n8n&logoColor=white)
 
 ---
-
-```javascript
-// Hamed Tareq Overview
-const hamed = {
-  code: ["JavaScript", "Python", "Java", "HTML", "CSS", "SQL"],
-  technologies: ["React", "Bootstrap", "n8n"],
-  passions: ["Building UIs", "Analyzing Data", "Novel Writing"],
-  currentFocus: "Creating seamless web experiences & insightful data stories"
-};
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -85,3 +74,13 @@ const hamed = {
 </div>
 
 ---
+```javascript
+// Hamed Tareq Overview
+const hamed = {
+  code: ["JavaScript", "Python", "Java", "HTML", "CSS", "SQL"],
+  technologies: ["React", "Bootstrap", "n8n"],
+  passions: ["Building UIs", "Analyzing Data", "Novel Writing"],
+  currentFocus: "Creating seamless web experiences & insightful data stories"
+};
+---
+
