@@ -2,13 +2,13 @@
 
 <h1>👋 Hi, I'm Hamed Tarek</h1>
 
-<img src="[https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true](https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true)" alt="Workspace" width="40%"/><br>  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 <h3>Front-End Developer | Data Analyst | Fiction Writer 📚💻</h3>
 
 <br>
 
-<img src="[https://komarev.com/ghpvc/?username=HamedTarek1&style=flat-square&color=blue&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=HamedTarek1&style=flat-square&color=blue&label=PROFILE+VIEWS)" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=HamedTarek1&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -60,7 +60,27 @@
 ![n8n](https://img.shields.io/badge/-n8n-FF6584?style=flat-square&logo=n8n&logoColor=white)
 
 ---
+---
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamedTarek1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hamed Tarek's GitHub Stats" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamedTarek1&theme=tokyonight&hide_border=true" alt="Hamed Tarek's GitHub Streak" width="400"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+---
 ```javascript
 // Hamed Tareq Overview
 const hamed = {
