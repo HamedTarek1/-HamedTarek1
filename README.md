@@ -1,19 +1,23 @@
 <div align="center">
 
 <h1>👋 Hi, I'm Hamed Tarek</h1>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>  
+
+<img src="[https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true](https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true)" alt="Workspace" width="40%"/><br>  
+
 <h3>Front-End Developer | Data Analyst | Fiction Writer 📚💻</h3>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=HamedTarek1&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="[https://komarev.com/ghpvc/?username=HamedTarek1&style=flat-square&color=blue&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=HamedTarek1&style=flat-square&color=blue&label=PROFILE+VIEWS)" alt="Profile Views" />
 
 </div>
 
 <br>
----
+
+<hr>
+
 <div align="center">
-  
+
 <h2>🌐 Connect with Me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamed-tarek-a145b8357)
@@ -27,6 +31,7 @@
 <hr>
 
 ## 🚀 About Me
+
 - 💻 **Front-End Development:** Building responsive, interactive, and user-friendly web interfaces.
 - 📊 **Data Analysis:** Analyzing data and extracting actionable insights to drive decision-making.
 - ✍️ **Fiction Writing:** Novelist and content creator passionate about storytelling and literature.
@@ -55,25 +60,7 @@
 ![n8n](https://img.shields.io/badge/-n8n-FF6584?style=flat-square&logo=n8n&logoColor=white)
 
 ---
-## 📈 GitHub Stats
 
-<div align="center">
-
-<!-- البطاقة الأولى: الإحصائيات العامة -->
-<img src="https://github-readme-stats.vercel.app/api?username=HamedTarek1&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Hamed Tarek's GitHub Stats" width="48%" />
-
-<!-- البطاقة الثانية: لغات البرمجة الأكثر استخداماً -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedTarek1&layout=compact&theme=dark&hide_border=true" alt="Hamed Tarek's Top Languages" width="48%" />
-
-</div>
-
-<!-- يمكنك أيضاً إضافة بطاقة التفاعل (Streak) كما في الصورة التي أرسلتها -->
-<div align="center">
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HamedTarek1&theme=dark&hide_border=true" alt="Hamed Tarek's GitHub Streak" width="97%" />
-</div>
-
----
 ```javascript
 // Hamed Tareq Overview
 const hamed = {
@@ -82,5 +69,3 @@ const hamed = {
   passions: ["Building UIs", "Analyzing Data", "Novel Writing"],
   currentFocus: "Creating seamless web experiences & insightful data stories"
 };
----
-
