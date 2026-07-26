@@ -1,21 +1,29 @@
 <div align="center">
 
 <h1>👋 Hi, I'm Hamed Tarek</h1>
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>  
+
 <h3>Front-End Developer | Data Analyst | Fiction Writer 📚💻</h3>
+
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=HamedTarek1&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
-## 🌐 Connect with Me
+
+</div>
+
+<br>
+
+---
 
 <div align="center">
+
+<h2>🌐 Connect with Me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamed-tarek-a145b8357)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@read_with_ht)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamed_tarek4)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hamed.tarek.9615)
-
-</div>
 
 </div>
 
